@@ -1,147 +1,106 @@
-<h1 align="center">👨‍💻 Abhishek Kumar</h1>
-<h3 align="center">Full Stack Engineer | L2 Technical Support Engineer | Greater Noida, India</h3>
+<div align="center">
 
-<p align="center">
-📞 8650590984 • ✉️ abhishek.abhishek1996@gmail.com  
-<br>
-💼 <a href="https://linkedin.com/">LinkedIn</a> • 💻 <a href="https://github.com/abhaysen07">GitHub</a>
-</p>
+<!-- HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=ABHISHEK%20KUMAR&fontColor=58a6ff&fontSize=65&fontAlignY=45&desc=Full%20Stack%20Engineer%20%7C%20Enterprise%20IT%20Specialist&descSize=18&descAlignY=65&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
 
----
+<br/>
 
-## 🧭 Professional Summary
+[![Profile Views](https://komarev.com/ghpvc/?username=abhaysen07&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS)](https://github.com/abhaysen07)
+[![GitHub followers](https://img.shields.io/github/followers/abhaysen07?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/abhaysen07?tab=followers)
 
-Technical Support Engineer with 4+ years of experience across Tech Mahindra, GlobalLogic, and S&P Global.  
-Strong background in enterprise IT support, Identity & Access Management (AD, Okta, SailPoint), Cloud tools (Intune, O365, Citrix), and ITSM platforms (ServiceNow, Salesforce).
+</div>
 
-Hands-on experience in Python, SQL, Flask, Tableau, and Machine Learning tools.  
-Currently evolving toward Full Stack Engineering with a focus on scalable web applications.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
----
+## 👨‍💻 About Me
 
-## 🧰 Technical Skills
+<img align="right" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
 
-### 💻 Systems & Networking
-Windows • Mac • Ubuntu • Linux • Zscaler • Cisco Jabber • VPN • ControlUp
+```yaml
+name: Abhishek Kumar
+located_in: Greater Noida, India
+education:
+  - B.Tech - Computer Science Engineering
 
-### 🔐 Identity & Access Management
-Active Directory • Okta • SailPoint • LAPS UI • Azure AD
+experience:
+  - 4+ years in Enterprise IT & Data Engineering
+  - L1/L2 Support | Identity & Access Management
+  - Cloud & Endpoint Administration
 
-### ☁️ Cloud & Collaboration
-O365 • SharePoint • Teams • OneDrive • Citrix • Microsoft Intune
+currently:
+  - Building Full Stack Applications
+  - Strengthening Backend & System Design
+  - Transitioning into Core Development Roles
 
-### 🧾 ITSM & Tools
-ServiceNow • Salesforce • MySQL (Ticket Routing) • ControlUp
+technical_focus:
+  - Frontend Engineering
+  - Backend APIs
+  - Automation & ML Integrations
 
-### 💻 Programming
-Python • SQL • JavaScript (Basic) • Bash (Basic)
+core_stack:
+  - "Frontend: HTML, CSS, JavaScript"
+  - "Backend: Flask, Python"
+  - "Database: MySQL"
+  - "Cloud: Azure AD, O365, Intune"
+  - "Tools: Git, ServiceNow"
 
-### 📊 Data & ML Tools
-Pandas • Scikit-learn • ARIMA • Tableau • Jupyter Notebook • Flask
+2025_goals:
+  - Land Full Stack Engineer Role
+  - Deploy 10+ Production-Ready Projects
 
-### 🌐 Web Development
-HTML5 • CSS3 • JavaScript • Flask (Jinja Templates) • Responsive Design
+fun_fact: "I automate what others repeat."
+```
 
----
+<br clear="right"/>
 
-# 💼 Experience
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🏢 Tech Mahindra — Technical Support Engineer  
-📅 Mar 2024 – Aug 2025 | Hybrid
+## 🛠 Tech Stack
 
-- Delivered L1/L2 enterprise IT support with >98% SLA adherence.
-- Managed incidents, requests, and changes using ServiceNow ITSM.
-- Implemented Okta MFA rollout & app-based authentication transitions.
-- Supported Office 365, Active Directory, Intune, Zscaler.
-- Conducted Root Cause Analysis (RCA) and KB documentation.
-- Used ControlUp for endpoint monitoring & performance analysis.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🏢 GlobalLogic — Associate Analyst (Client: Google)  
-📅 Oct 2022 – Oct 2023 | Hybrid
+### Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- Worked on AI/ML-based annotation projects.
-- Analyzed Google Assistant voice command datasets.
-- Performed image/video classification and NLP validation.
-- Maintained SOP compliance and QA consistency.
+### Enterprise & Cloud
+![Azure AD](https://img.shields.io/badge/AzureAD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Office365](https://img.shields.io/badge/O365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🏢 S&P Global — Data Research Analyst  
-📅 Jan 2020 – Apr 2021 | Ahmedabad
+## 📊 GitHub Statistics
 
-- Conducted financial and market research using Capital IQ.
-- Automated PDF extraction using Python.
-- Built OpenCV-based image classifiers.
-- Developed web scraping solutions for multilingual data.
-- Mentored team members and ensured SLA compliance.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhaysen07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-# 🚀 Featured Projects
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=abhaysen07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-## 🏨 AAMA Residency (Live Project)
-Frontend hotel booking website built using HTML5, CSS3, and JavaScript.
+</div>
 
-- Responsive UI
-- Modular structure
-- Git version control
-- Deployed via GitHub Pages
+<br/>
 
----
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhaysen07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff"/>
+</div>
 
-## 🤖 ML Portfolio Website (Flask)
-Deployed multiple ML models:
-- Heart Failure Prediction
-- Breast Cancer Diagnosis
-- BMI Health Predictor
-- Insurance Premium Estimator
-- Red Wine Quality Model
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
----
+## 🤝 Connect With Me
 
-## 👁️ Face Recognition System
-Real-time facial recognition using LBPH algorithm and OpenCV.
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abhishek1996@gmail.com)
 
-## 😊 Smile Detection
-Haar Cascade-based real-time expression detection.
+</div>
 
----
-
-## 📄 PDF Bold Text Extraction
-Automated bold text detection using Python + OpenCV.
-
----
-
-## 🚗 Gesture Control Car
-Arduino-based RF gesture-controlled robotic vehicle.
-
----
-
-# 🎓 Education
-
-🎓 B.Tech – Computer Science Engineering  
-Alliance University, Bangalore (2016–2020)
-
-📘 Intermediate – Mathematics  
-PT KCCS ICM, Agra
-
-🏫 High School  
-Bhartiya Vidyapeeth, Agra
-
----
-
-## 📌 Additional Information
-
-📅 Date of Birth: 06 February 1997  
-🗣️ Languages: English, Hindi  
-📍 Open to opportunities PAN India  
-
----
-
-<p align="center">
-© 2025 Abhishek Kumar
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
