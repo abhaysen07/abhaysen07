@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=ABHISHEK%20KUMAR&fontColor=58a6ff&fontSize=65&fontAlignY=45&desc=Full%20Stack%20Engineer%20%7C%20Enterprise%20IT%20Specialist&descSize=18&descAlignY=65&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:161b22,100:0d1117&text=ABHISHEK%20KUMAR&fontColor=58a6ff&fontSize=60&fontAlignY=45&desc=Full%20Stack%20Engineer%20%7C%20Enterprise%20Systems%20Background&descSize=18&descAlignY=65&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
 
 <br/>
 
@@ -10,50 +9,22 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
+Full Stack Engineer with 4+ years of experience across enterprise IT environments, identity systems, and automation-driven workflows.
 
-```yaml
-name: Abhishek Kumar
-located_in: Greater Noida, India
-education:
-  - B.Tech - Computer Science Engineering
+I bring production discipline from SLA-driven enterprise systems into modern application development — focusing on scalable architecture, clean code, and reliable backend logic.
 
-experience:
-  - 4+ years in Enterprise IT & Data Engineering
-  - L1/L2 Support | Identity & Access Management
-  - Cloud & Endpoint Administration
+### 🔹 Core Expertise
+- Enterprise Identity & Access Management (Azure AD, Okta)
+- Cloud & Endpoint Systems (O365, Intune)
+- Incident Lifecycle & Production Environments
+- Automation using Python & SQL
+- Full Stack Web Development
 
-currently:
-  - Building Full Stack Applications
-  - Strengthening Backend & System Design
-  - Transitioning into Core Development Roles
-
-technical_focus:
-  - Frontend Engineering
-  - Backend APIs
-  - Automation & ML Integrations
-
-core_stack:
-  - "Frontend: HTML, CSS, JavaScript"
-  - "Backend: Flask, Python"
-  - "Database: MySQL"
-  - "Cloud: Azure AD, O365, Intune"
-  - "Tools: Git, ServiceNow"
-
-2025_goals:
-  - Land Full Stack Engineer Role
-  - Deploy 10+ Production-Ready Projects
-
-fun_fact: "I automate what others repeat."
-```
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
 ## 🛠 Tech Stack
 
@@ -74,9 +45,23 @@ fun_fact: "I automate what others repeat."
 ![Office365](https://img.shields.io/badge/O365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🏨 AAMA Residency  
+Multi-page responsive hotel booking website built using HTML, CSS, and JavaScript.  
+Focus: semantic structure, accessibility, modular UI, and real-world deployment.
+
+### 🤖 Machine Learning Web Applications  
+Flask-based ML apps including Heart Prediction, Cancer Detection, Insurance Estimator, and Time Series Forecasting.
+
+### 🔐 Automation & Data Tools  
+Python-based web scraping, PDF extraction, OpenCV classifiers, and SQL validation systems built during enterprise roles.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -92,14 +77,23 @@ fun_fact: "I automate what others repeat."
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhaysen07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-5a757b3b/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AK_DEV97)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abhishek1996@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+Building scalable systems. Shipping consistently. Improving continuously.
 
 </div>
 
